@@ -26,7 +26,7 @@ This project provides a travel booking API built with Django and Django REST Fra
 ---
 
 Author: Mohameddeq Ahmed
-ALX Backend Student
+ALX Backend Studentssss
 - `/redoc/` for Redoc
 
 # Payment Integration with Chapa API
