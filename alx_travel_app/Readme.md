@@ -1,3 +1,9 @@
+# README
+
+This directory contains the main code and configuration for the travel booking app with Chapa payment integration.
+
+## Project Overview
+This project provides a travel booking API built with Django and Django REST Framework (DRF).
 # alx_travel_app_0x01
 
 This is the root README for the ALX Travel App 0x01 project.

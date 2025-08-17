@@ -1,3 +1,6 @@
+# README
+
+This directory contains the Django app for listings, including models, views, serializers, and payment integration code.
 # alx_travel_app_0x01
 
 This is the root README for the ALX Travel App 0x01 project.

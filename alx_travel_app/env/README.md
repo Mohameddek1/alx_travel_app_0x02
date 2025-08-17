@@ -1,3 +1,6 @@
+# README
+
+This directory contains the virtual environment files for the project. No code should be placed here.
 # alx_travel_app_0x01
 
 This is the root README for the ALX Travel App 0x01 project.
